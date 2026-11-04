@@ -4,6 +4,8 @@
 
 データはこのブラウザの中だけに保存します。ログイン、決済、外部APIはありません。
 
+公開ページ: https://chakocherry-cmyk.github.io/daini-furusato/
+
 ## 必要なもの
 
 - Node.js 24 系
